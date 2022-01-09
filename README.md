@@ -1,2 +1,2 @@
-# newsletter
+# Newsletter
 Newsletter signup using node,express and mail chimp api
